@@ -1,6 +1,6 @@
 {
   "name": "generator-libs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "scaffold out a nodejs library",
   "main": "index.js",
   "keywords": [
